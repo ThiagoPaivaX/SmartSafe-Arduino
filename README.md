@@ -20,22 +20,6 @@ Durante o desenvolvimento foram aplicados conceitos de:
 
 ---
 
-## 📷 Projeto
-
-### Cofre Fechado
-
-> Adicione aqui a imagem do cofre fechado.
-
-### Cofre Aberto
-
-> Adicione aqui a imagem do cofre aberto.
-
-### Parte Eletrônica
-
-> Adicione aqui a imagem da montagem interna.
-
----
-
 ## ⚙️ Funcionalidades
 
 - 🔐 Controle da trava utilizando Servo Motor
@@ -91,28 +75,6 @@ SmartSafe-Arduino
 
 ---
 
-## 🚀 Como Executar
-
-1. Clone este repositório.
-
-```
-git clone https://github.com/SEU-USUARIO/SmartSafe-Arduino.git
-```
-
-2. Abra o projeto na Arduino IDE.
-
-3. Instale a biblioteca:
-
-```
-Servo.h
-```
-
-4. Faça o upload para o Arduino Uno.
-
-5. Conecte todos os componentes conforme o circuito desenvolvido.
-
----
-
 ## 📌 Objetivos do Projeto
 
 Este projeto teve como finalidade colocar em prática os conhecimentos adquiridos durante o curso, desenvolvendo uma solução que integrasse programação, eletrônica e automação.
@@ -148,13 +110,5 @@ Durante o desenvolvimento foi possível aprimorar conhecimentos em:
 Estudante de Engenharia de Software.
 
 Sempre buscando aprender novas tecnologias e desenvolver projetos que contribuam para minha evolução na área de Tecnologia.
-
-LinkedIn:
-(Coloque aqui o link do seu perfil)
-
-GitHub:
-(Coloque aqui o link do seu GitHub)
-
----
 
 ⭐ Caso tenha gostado do projeto, deixe uma estrela no repositório.
